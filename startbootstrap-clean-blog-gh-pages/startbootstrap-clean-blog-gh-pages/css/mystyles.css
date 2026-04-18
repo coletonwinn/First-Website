@@ -1,0 +1,52 @@
+body {background-color: whitesmoke;}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: royalblue;
+}
+ul {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: larger;
+}
+img {
+    float:right;
+    margin-left: 100px;
+    width: 200px;
+    height: 300px
+}
+iframe{
+    display: block;
+    margin: 0 auto;
+   
+}
+
+.sport {
+    color: royalblue;
+    font-weight: bold;
+}
+
+.header {
+    background-color: black;
+}
+a:hover {
+    color: black;
+    font-weight: bolder;
+}
+
+.footer {
+    position: fixed;
+    bottom:0;
+    left: 0;
+    width: 100%;
+    background-color: royalblue;
+}
+
+a {
+    color: white;
+}
+
+.tableauPlaceholder{
+    left:auto;
+    right:auto;
+}

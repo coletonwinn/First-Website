@@ -1,0 +1,25 @@
+.footer {
+    position:fixed;
+    bottom:0;
+    left:0;
+    background-color: aquamarine;
+}
+
+.snakeee{
+    color:greenyellow;
+    position: fixed;
+    top:0px;
+    left:5%;
+    font-size: 70px;
+  color: #39ff14;
+  display: inline-block;
+  transform: skewX(10deg) scaleY(1.2);
+  letter-spacing: 5px;
+   text-shadow:
+    0 0 5px #39ff14,
+    0 0 10px #39ff14,
+    0 0 20px #00ff00,
+    0 0 40px #00ff00,
+    0 0 80px #00ff00;
+    font-family: 'Creepster', cursive;
+}
